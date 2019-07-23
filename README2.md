@@ -1,2 +1,2 @@
-#mi miApp
+#mi App
 esta es mi app
